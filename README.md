@@ -7,7 +7,9 @@ This game was developed in C language. The purpose of this game is to practice m
   Example:
     
    Server:
-      - On your line of comand exec: ./server 9090
+      - On your line of comand exec:
+      
+      ./server 9090
       
       0 - name of executable
       
@@ -16,7 +18,9 @@ This game was developed in C language. The purpose of this game is to practice m
   obs: The HOST will be the localhost.
   
    Client:
-      - On your command line exec: ./client 127.0.0.1 9090
+      - On your command line exec:
+      
+      ./client 127.0.0.1 9090
       
       0 - name of executable
       
